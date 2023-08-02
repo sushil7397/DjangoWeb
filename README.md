@@ -46,7 +46,10 @@ The application should now be accessible in your web browser at the specified ad
 
 ## 🎨Video
 
+https://github.com/sushil7397/DjangoWeb/assets/67103453/fc678bcd-a9d5-41cb-96cc-dcd1a5ec208e
 
-https://github.com/sushil7397/OnePageDesign/assets/67103453/90d1c6af-3842-4f54-ac06-f7b8ac483b31
+
+
+
 
 
